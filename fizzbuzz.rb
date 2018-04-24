@@ -1,3 +1,3 @@
-def fizzbuzz(str)
-  return str
+def fizzbuzz(int)
+  
 end
